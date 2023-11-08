@@ -1,3 +1,3 @@
 # User-bs
 
-This is user service
+This is user service written in java.
